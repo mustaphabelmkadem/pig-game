@@ -1,6 +1,6 @@
 # The-Pig-Game 🐷
 
-![Pig-Game](https://user-images.githubusercontent.com/8182687/48672938-4747a480-eb62-11e8-9bb1-75892e2e4305.png)
+![Pig-Game](https://user-images.githubusercontent.com/5465320/193353083-2d9459f5-e74d-49e6-bdc0-a5e0c74953c9.png)
 
 ---
 ## Description:
